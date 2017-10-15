@@ -1,2 +1,2 @@
-# hello-world
-Getting to know how things work around here
+# hello-world 
+Comp. Sci. Student Newbie from Melbourne, Australia 
